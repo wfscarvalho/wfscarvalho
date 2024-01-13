@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Wesley da Silva</h1>
-<h3 align="center">A enthusiastic learner that aim to be an expert</h3>
+<h3 align="center">Just studying</h3>
 
 ## About
 
